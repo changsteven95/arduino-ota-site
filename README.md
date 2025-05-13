@@ -1,2 +1,0 @@
-# arduino-ota-site
-test

@@ -1,19 +1,7 @@
 {
   "latest_version": "v5.0",
-  "versions": [
+  "versions": [    
     {
-      "version": "v1.0",
-      "filename": "0513OTA_v1.0.bin"
-    },
-    {
-      "version": "v3",
-      "filename": "0513OTA_v3.ino.bin"
-    },
-    {
-      "version": "v4.0",
-      "filename": "0513OTA_v4.ino.bin"
-    },
-     {
       "version": "v5.0",
       "filename": "0514_v5.ino.bin"
     }

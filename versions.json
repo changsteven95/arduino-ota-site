@@ -1,5 +1,5 @@
 {
-  "latest_version": "v4.0",
+  "latest_version": "v5.0",
   "versions": [
     {
       "version": "v1.0",
@@ -12,6 +12,10 @@
     {
       "version": "v4.0",
       "filename": "0513OTA_v4.ino.bin"
+    }
+     {
+      "version": "v5.0",
+      "filename": "0514.ino.bin"
     }
   ]
 }

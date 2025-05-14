@@ -1,8 +1,8 @@
 {
-  "latest_version": "v6.0",
+  "latest_version": "v7.0",
   "versions": [    
     {
-      "version": "v6.0",
+      "version": "v7.0",
       "filename": "0514_v6.ino.bin"
     }
   ]

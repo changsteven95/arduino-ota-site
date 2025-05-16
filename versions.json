@@ -1,5 +1,5 @@
 {
- "latest":"v9",
- "bin":"OTA_example1.ino.bin"
+ "version":"v9",
+ "firmware_url":"OTA_example1.ino.bin"
 }
  

@@ -1,6 +1,6 @@
 {
  "version":"v9",
- "firmware_url":"https://changsteven95.github.io/arduino-ota-site/OTA_example.ino.bin"    /*OTA_example.ino.bin是欲更新的檔名 */
+ "firmware_url":"https://changsteven95.github.io/arduino-ota-site/OTA_example.ino.bin"    /**OTA_example.ino.bin是欲更新的檔名 */
  
 }
  
